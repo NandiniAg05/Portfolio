@@ -27,7 +27,7 @@ const siteProps = {
   name: "Nandini Agarwal",
   title: "Web Developer",
   email: "nandiniagarwal0509@gmail.com",
-  gitHub: "",
+  gitHub: "nandiniag05",
   instagram: "",
   linkedIn: "",
   medium: "",
